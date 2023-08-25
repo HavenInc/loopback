@@ -47,7 +47,7 @@
     "express": "^4.14.0",
     "inflection": "^1.6.0",
     "loopback-connector-remote": "^3.0.0",
-    "loopback-datasource-juggler": "git+ssh://git@github.com:HavenInc/loopback-datasource-juggler.git#v3.36.1_updated",
+    "loopback-datasource-juggler": "git+ssh://git@github.com:HavenInc/loopback-datasource-juggler.git#v3.0.0_updated",
     "isemail": "^1.2.0",
     "loopback-phase": "^1.2.0",
     "nodemailer": "^2.5.0",
